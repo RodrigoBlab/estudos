@@ -1,0 +1,2 @@
+# estudos
+Exercicio Prof fiasco 
